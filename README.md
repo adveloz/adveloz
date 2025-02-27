@@ -34,6 +34,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adveloz/adveloz/output/snake.svg" alt="Snake animation" />
-
 ###
